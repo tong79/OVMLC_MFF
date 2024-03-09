@@ -82,9 +82,5 @@ sh scripts/evaluate_openimages.sh
 
 ### Step 3: Evaluation using pretrained weights
 
-To evaluate the multi-label zero-shot model on OpenImages. You can download the pretrained weights from [here](https://drive.google.com/drive/folders/1gW0rBofvVXiqfplQWGJLzao8v1bJ3Z8T?usp=sharing) and store them at `OPENIMAGES` folder inside `pretrained_weights` directory.
-
-```
-sh scripts/evaluate_openimages.sh
-```
+To evaluate the multi-label zero-shot model on OpenImages. 
 
